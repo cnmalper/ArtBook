@@ -13,4 +13,4 @@ Built an Artbook on my 100DaysOfSwift Challenge.
 ### Plus:
 - I added a button that changes the background color.
 
-<p><img align="left" src="https://github.com/cnmalper/ArtBook/blob/main/artbook.gif" width="300" height="650"/></p>
+<p><img align="left" src="https://github.com/cnmalper/ArtBook/blob/main/artbook.gif" width="300" height="700"/></p>
